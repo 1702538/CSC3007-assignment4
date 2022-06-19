@@ -253,7 +253,7 @@ function ForceDirectedGraph() {
       .append("text")
       .attr("x", 220)
       .attr("y", 130)
-      .text("Yes (2 Doses)")
+      .text("Vaccinated (2 Doses)")
       .style("font-size", "15px")
       .attr("alignment-baseline", "middle");
     svg
